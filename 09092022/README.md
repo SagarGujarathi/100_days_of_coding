@@ -2,5 +2,5 @@ Day 14 of [#100daysofcode](https://www.linkedin.com/feed/hashtag/?keywords=100da
 
 --> Solved Hackerrank and codechef questions.
 
---> Learnt insersion, deletion, detect cycle, remove cycle in linked lists.
+--> Learnt insertion, deletion, detect cycle, remove cycle in linked lists.
 
